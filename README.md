@@ -1,5 +1,5 @@
 # Data-Structure-2019
-Data Structure courses and experiments in RUC, School of Information
+Data Structure courses and experiments in RUC, School of Information, 2019
 
 ## **实验** 01、基础练习与三元组
 
